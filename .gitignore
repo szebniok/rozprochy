@@ -1,0 +1,8 @@
+.idea
+*.png
+*.iml
+out/
+wyklady/
+*.zip
+*.pdf
+*.md
